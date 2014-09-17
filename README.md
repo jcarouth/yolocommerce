@@ -7,7 +7,7 @@ The only ecommerce platform powered by bad ideas the developers will likely regr
 
 You don't really want to install, do you? Okay if you do I suggest installing it in production over ftp. Not sftp. ftp. That's really the best way.
 
-Note: This is not intended to be production software. Only deploy this in production is your life philosophy is really #YOLO.
+Note: This is not intended to be production software. Only deploy this in production if your life philosophy is really #YOLO.
 
 ## Tests
 
@@ -19,4 +19,4 @@ This software is licensed under the [MIT License](LICENSE) only because I was no
 
 ## Contributing
 
-All contributions will be mocked mercilessly. I'm not sure you want to go there. But on the off change you do, please make sure what you contribute has lots of bugs. After all, bugs are merely undocumented features right up until someone documents them in an issue report. Then they are full-fledged features.
+All contributions will be mocked mercilessly. I'm not sure you want to go there. But on the off chance you do, please make sure what you contribute has lots of bugs. After all, bugs are merely undocumented features right up until someone documents them in an issue report. Then they are full-fledged features.
